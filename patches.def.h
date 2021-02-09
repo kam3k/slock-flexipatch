@@ -85,7 +85,7 @@
  * login prompt) to slock.
  * https://tools.suckless.org/slock/patches/terminalkeys/
  */
-#define TERMINALKEYS_PATCH 0
+#define TERMINALKEYS_PATCH 1
 
 /* This patch keeps the screen unlocked but keeps the input locked. That is, the screen
  * is not affected by slock, but users will not be able to interact with the X session
